@@ -1,16 +1,62 @@
-## Hi there 👋
+```md
+<h1 align="center">Hi 👋, I'm Margaret Gitau</h1>
+<h3 align="center">🚀 Passionate Frontend Developer | React Learner | Future Full-Stack Engineer</h3>
 
-<!--
-**6638maggie-gitau/6638maggie-gitau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Building+Cool+Projects;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 💻 Currently learning **React & JavaScript**
+- 🚀 Building real-world projects
+- 🎬 Working on a Movie App
+- 🌱 Improving my debugging skills every day
+- ⚡ Fun fact: Bugs fear me sometimes 😂
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🎬 Movie Search App
+- 🌐 Frontend UI Projects
+- ⚛️ React Practice Apps
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/6638maggie-gitau">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
+```
