@@ -7,20 +7,33 @@ I enjoy turning ideas into practical projects while continuously improving my sk
 ## 🚀 Tech Stack
 
 * React
-* JavaScript (ES6+)
+* JavaScript 
 * Tailwind CSS
 * HTML5
 * CSS3
+* Git & GitHub
 
-## 🎵 Projects
+## 📂 Projects
 
-### Mood Music Player
+### 🎵 Mood Music Player
 
-A React application that allows users to explore and play music based on different moods.
+A React application that allows users to explore and play music based on different moods, creating a personalized listening experience.
 
-### Movie App
+### 🎬 Movie App
 
-A movie browsing application built with React and API integration to display movie information.
+A movie browsing application built with React and API integration to display movie information, ratings, and details.
+
+### 🏥 Hospital Booking System
+
+A healthcare appointment management application that enables patients to browse doctors, book appointments, and manage their bookings through a simple and intuitive interface.
+
+**Key Features:**
+
+* Doctor listings
+* Appointment booking
+* Appointment management
+* Responsive user interface
+  
 
 ## 🌱 Currently Learning
 
@@ -28,27 +41,36 @@ A movie browsing application built with React and API integration to display mov
 * Working with APIs
 * Improving UI/UX design
 * Writing cleaner and more maintainable code
+* Backend development fundamentals
 
 ## 💡 What I Like Building
 
 * Interactive web applications
 * User-focused interfaces
-* Projects that solve real-world problems
+* Real-world problem-solving projects
+* Responsive and accessible websites
 
 ## 🎯 Goals
 
-* Continue building modern React applications and improving frontend development skills
-* Learn backend development to become a full-stack developer
+* Continue building modern React applications and strengthening frontend development skills
+* Learn backend development and become a full-stack developer
 * Contribute to open-source projects and collaborate with other developers
-* Build applications that solve real-world problems and create great user experiences
+* Build applications that create meaningful user experiences
+* Continuously learn and adapt to new technologies
+
+## 📊 GitHub Stats
+
+GitHub is where I document my learning journey, showcase projects, and track my growth as a developer.
 
 ## ✨ Fun Fact
 
-I enjoy learning by building projects and challenging myself with new technologies and ideas.
+I enjoy learning by building projects, reading novels, following football, and challenging myself with new technologies and ideas.
 
 ## 📫 Contact
 
 * Email: [6638maggie@gmail.com](mailto:6638maggie@gmail.com)
 * GitHub: https://github.com/6638maggie-gitau
 
-Thanks for visiting my profile! 🚀
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I grow into a full-stack developer.
