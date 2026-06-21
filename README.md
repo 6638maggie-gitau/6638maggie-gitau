@@ -64,7 +64,7 @@ GitHub is where I document my learning journey, showcase projects, and track my 
 
 ## ✨ Fun Fact
 
-I enjoy learning by building projects, reading novels, following football, and challenging myself with new technologies and ideas.
+I enjoy learning by building projects, reading novels  and challenging myself with new technologies and ideas.
 
 ## 📫 Contact
 
