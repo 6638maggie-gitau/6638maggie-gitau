@@ -84,4 +84,4 @@ When I'm not coding, you'll usually find me reading novels, exploring new techno
 
 ---
 
-⭐ Thanks for stopping by! Feel free to explore my repositories and join me on my journey toward becoming a full-stack developer.
+⭐ Thanks for stopping by! Feel free to explore my repositories.
