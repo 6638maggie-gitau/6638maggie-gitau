@@ -75,7 +75,7 @@ A healthcare appointment management application designed to streamline the booki
 
 ## ✨ Beyond Coding
 
-When I'm not coding, you'll usually find me reading novels, following football, exploring new technologies, or working on personal projects that help me grow as a developer.
+When I'm not coding, you'll usually find me reading novels, exploring new technologies, or working on personal projects that help me grow as a developer.
 
 ## 📫 Let's Connect
 
