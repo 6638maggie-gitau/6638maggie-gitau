@@ -7,10 +7,10 @@ I'm a passionate frontend developer who enjoys creating clean, responsive, and u
 ## 🚀 Tech Stack
 
 * React
-* JavaScript (ES6+)
+* JavaScript 
 * Tailwind CSS
 * HTML5
-* CSS3
+* CSS
 * Git & GitHub
 * Vite
 
@@ -67,20 +67,24 @@ A healthcare appointment management application designed to streamline the booki
 * Build impactful applications that solve real-world challenges
 * Continuously learn and grow as a software developer
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6638maggie-gitau\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6638maggie-gitau\&layout=compact)
-
 ## ✨ Beyond Coding
 
 When I'm not coding, you'll usually find me reading novels, exploring new technologies, or working on personal projects that help me grow as a developer.
 
 ## 📫 Let's Connect
 
-* 📧 Email: [6638maggie@gmail.com](mailto:6638maggie@gmail.com)
+* 📧 Email: 6638maggie@gmail.com
 * 💻 GitHub: https://github.com/6638maggie-gitau
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6638maggie-gitau\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6638maggie-gitau\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=6638maggie-gitau\&theme=tokyonight)
 
 ---
 
