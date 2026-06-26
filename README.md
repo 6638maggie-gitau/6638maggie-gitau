@@ -9,7 +9,7 @@ I'm a passionate frontend developer who enjoys creating clean, responsive, and u
 * React
 * JavaScript 
 * Tailwind CSS
-* HTML5
+* HTML
 * CSS
 * Git & GitHub
 * Vite
