@@ -95,4 +95,4 @@ When I'm not coding, you'll usually find me writing novels, reading books, explo
 
 ---
 
-⭐ Thanks for stopping by! Whether you're here for my code or my stories, I hope you find something that inspires you. Feel free to explore my repositories!
+⭐ Thanks for stopping by! I hope you find something that inspires you. Feel free to explore my repositories!
