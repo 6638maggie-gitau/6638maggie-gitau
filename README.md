@@ -1,16 +1,16 @@
 # Hi, I'm Margaret 👋
 
-### Frontend Developer | React Enthusiast | Lifelong Learner 🚀
+### Frontend Developer | React Enthusiast | Author & Lifelong Learner 🚀
 
-I'm a passionate frontend developer who enjoys creating clean, responsive, and user-friendly web applications. I love transforming ideas into interactive digital experiences and continuously expanding my knowledge through hands-on projects and real-world problem-solving.
+I'm a passionate frontend developer and aspiring full-stack engineer who enjoys creating clean, responsive, and user-friendly web applications. Alongside coding, I'm also a writer who loves crafting engaging stories and bringing characters to life. Whether I'm building software or writing novels, I enjoy turning ideas into meaningful experiences that inspire and connect with people.
 
 ## 🚀 Tech Stack
 
 * React
-* JavaScript 
+* JavaScript (ES6+)
 * Tailwind CSS
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Git & GitHub
 * Vite
 
@@ -36,12 +36,17 @@ A healthcare appointment management application designed to streamline the booki
 * Responsive and user-friendly interface
 * State management using React Context API
 
+## ✍️ Writing
+
+Beyond software development, I'm also a novelist who enjoys creating compelling stories filled with emotion, growth, and unforgettable characters. Writing allows me to express creativity in a different way while sharpening my storytelling and problem-solving skills.
+
 ## 🌱 Currently Learning
 
 * Advanced React patterns and state management
 * API integration and data handling
 * UI/UX design principles
 * Backend development fundamentals
+* Python and DevOps
 * Writing scalable and maintainable code
 
 ## 🔥 Current Focus
@@ -50,6 +55,7 @@ A healthcare appointment management application designed to streamline the booki
 * Improving frontend architecture and code quality
 * Strengthening problem-solving skills
 * Expanding into full-stack development
+* Publishing more original stories
 
 ## 💡 What I Enjoy Building
 
@@ -64,16 +70,17 @@ A healthcare appointment management application designed to streamline the booki
 * Become a skilled full-stack developer
 * Contribute to open-source projects
 * Collaborate with developers worldwide
+* Publish inspiring novels
 * Build impactful applications that solve real-world challenges
-* Continuously learn and grow as a software developer
+* Continuously learn and grow as both a software developer and author
 
 ## ✨ Beyond Coding
 
-When I'm not coding, you'll usually find me reading novels, exploring new technologies, or working on personal projects that help me grow as a developer.
+When I'm not coding, you'll usually find me writing novels, reading books, exploring new technologies, or working on personal projects that help me grow creatively and professionally.
 
 ## 📫 Let's Connect
 
-* 📧 Email: 6638maggie@gmail.com
+* 📧 Email: [6638maggie@gmail.com](mailto:6638maggie@gmail.com)
 * 💻 GitHub: https://github.com/6638maggie-gitau
 
 ---
@@ -88,4 +95,4 @@ When I'm not coding, you'll usually find me reading novels, exploring new techno
 
 ---
 
-⭐ Thanks for stopping by! Feel free to explore my repositories.
+⭐ Thanks for stopping by! Whether you're here for my code or my stories, I hope you find something that inspires you. Feel free to explore my repositories!
