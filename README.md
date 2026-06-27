@@ -7,10 +7,10 @@ I'm a passionate frontend developer and aspiring full-stack engineer who enjoys 
 ## 🚀 Tech Stack
 
 * React
-* JavaScript (ES6+)
+* JavaScript 
 * Tailwind CSS
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Git & GitHub
 * Vite
 
