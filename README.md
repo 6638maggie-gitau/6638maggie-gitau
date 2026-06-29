@@ -8,7 +8,7 @@ I'm a passionate frontend developer and aspiring full-stack engineer who enjoys 
 
 * React
 * JavaScript 
-* Tailwind CSS
+* Tailwind
 * HTML
 * CSS
 * Git & GitHub
