@@ -76,7 +76,7 @@ Beyond software development, I'm also a novelist who enjoys creating compelling 
 
 ## ✨ Beyond Coding
 
-When I'm not coding, you'll usually find me writing novels, reading books, exploring new technologies, or working on personal projects that help me grow creatively and professionally.
+When I'm not codind, I'm either writing novels or reading books, exploring new technologies, and working on personal projects that help me grow creatively and professionally.
 
 ## 📫 Let's Connect
 
