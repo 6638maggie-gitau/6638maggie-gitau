@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React Enthusiast | Author & Lifelong Learner 🚀
 
-I'm a passionate frontend developer and aspiring full-stack engineer who enjoys creating clean, responsive, and user-friendly web applications. Alongside coding, I'm also a writer who loves crafting engaging stories and bringing characters to life. Whether I'm building software or writing novels, I enjoy turning ideas into meaningful experiences inspire and connect with people.
+I'm a passionate frontend developer and aspiring full-stack engineer who enjoys creating clean, responsive, and user-friendly web applications. Alongside coding, I'm also a writer who loves crafting engaging stories and bringing characters to life. Whether I'm building software or writing novels, I enjoy turning ideas into meaningful experiences that inspire and connect with people.
 
 ## 🚀 Tech Stack
 
