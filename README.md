@@ -38,7 +38,7 @@ A healthcare appointment management application designed to streamline the booki
 
 ## ✍️ Writing
 
-Beyond software development, I'm also a novelist who enjoys creating compelling stories filled  with  emotions, growth, and unforgettable characters. Writing allows me to express creativity in a different way while sharpening my storytelling and problem-solving skills.
+Beyond software development, I'm also a novelist who enjoys creating compelling stories filled  with  emotions, growth, and unforgettable characters. Writing allows me to express creativity in a different while sharpening my storytelling and problem-solving skills.
 
 ## 🌱 Currently Learning
 
