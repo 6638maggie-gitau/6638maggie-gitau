@@ -12,7 +12,6 @@ I'm a passionate frontend developer and aspiring full-stack engineer who enjoys 
 * HTML
 * CSS
 * Git & GitHub
-* Vite
 
 ## 📂 Featured Projects
 
