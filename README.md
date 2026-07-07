@@ -22,7 +22,7 @@ A React-based music application that helps users discover and enjoy music based 
 
 ### 🎬 Movie App
 
-A movie discovery application built with React and API integration, allowing users to browse, search,explore detailed movie information.
+A movie discovery application built with React and API integration, allowing users to browse, search, and explore detailed movie information.
 
 ### 🏥 Hospital Booking System
 
