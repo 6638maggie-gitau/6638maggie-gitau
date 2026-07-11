@@ -1,13 +1,13 @@
 # Hi, I'm Margaret 👋
 
-### Frontend Developer | React Enthusiast | Author & Lifelong Learner 🚀
+### Frontend Developer | React Enthusiast | Lifelong Learner 🚀
 
-I'm a passionate frontend developer and aspiring full-stack engineer who enjoys creating clean, responsive, and user-friendly web applications. Alongside coding, I'm also a writer who loves crafting engaging stories and bringing characters to life. Whether I'm building software or writing novels, I enjoy turning ideas into meaningful experiences that inspire and connect with people.
+I'm a passionate frontend developer and aspiring full-stack engineer who enjoys creating clean, responsive, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences while continuously expanding my knowledge through hands-on projects and real-world problem-solving.
 
 ## 🚀 Tech Stack
 
 * React
-* JavaScript 
+* JavaScript
 * Tailwind CSS
 * HTML
 * CSS
@@ -36,10 +36,6 @@ A healthcare appointment management application designed to streamline the booki
 * Responsive and user-friendly interface
 * State management using React Context API
 
-## ✍️ Writing
-
-Beyond software development, I'm also a novelist who enjoys creating compelling stories filled  with  emotions, growth, and unforgettable characters. Writing allows me to express creativity in a different way  while sharpening my storytelling and problem-solving skills.
-
 ## 🌱 Currently Learning
 
 * Advanced React patterns and state management
@@ -55,7 +51,6 @@ Beyond software development, I'm also a novelist who enjoys creating compelling 
 * Improving frontend architecture and code quality
 * Strengthening problem-solving skills
 * Expanding into full-stack development
-* Publishing more original stories
 
 ## 💡 What I Enjoy Building
 
@@ -70,13 +65,12 @@ Beyond software development, I'm also a novelist who enjoys creating compelling 
 * Become a skilled full-stack developer
 * Contribute to open-source projects
 * Collaborate with developers worldwide
-* Publish inspiring novels
 * Build impactful applications that solve real-world challenges
-* Continuously learn and grow as both a software developer and author
+* Continuously learn and grow as a software developer
 
 ## ✨ Beyond Coding
 
-When I'm not coding, I'm either writing novels or reading books, exploring new technologies, and working on personal projects that help me grow creatively and professionally.
+When I'm not coding, I'm exploring new technologies, learning new development skills, and working on personal projects that help me grow both creatively and professionally.
 
 ## 📫 Let's Connect
 
@@ -87,11 +81,11 @@ When I'm not coding, I'm either writing novels or reading books, exploring new t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6638maggie-gitau\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6638maggie-gitau&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6638maggie-gitau\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6638maggie-gitau&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=6638maggie-gitau\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=6638maggie-gitau&theme=tokyonight)
 
 ---
 
