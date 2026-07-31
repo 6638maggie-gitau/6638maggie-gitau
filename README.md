@@ -34,7 +34,7 @@ A healthcare appointment management application designed to streamline the booki
 * Book appointments online
 * Manage appointments efficiently
 * Responsive and user-friendly interface
-* State management using React Context API
+* State management using React Context 
 
 ## 🌱 Currently Learning
 
