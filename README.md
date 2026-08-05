@@ -54,7 +54,7 @@ A healthcare appointment management application designed to streamline the booki
 
 ## 💡 What I Enjoy Building
 
-* Interactive web applications
+* Interactive  applications
 * Responsive user interfaces
 * Productivity and utility tools
 * Real-world problem-solving solutions
