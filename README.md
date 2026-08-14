@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React Enthusiast | Lifelong Learner 🚀
 
-I'm a passionate frontend developer and aspiring full-stack engineer who enjoys creating clean, responsive, and user-friendly web applications. I enjoy turning  into interactive digital experiences while continuously expanding my knowledge through hands-on projects and real-world problem-solving.
+I'm a passionate frontend developer and aspiring full-stack engineer who enjoys creating clean, responsive, and user-friendly web applications. I enjoy turning   ideas into interactive digital experiences while continuously expanding my knowledge through hands-on projects and real-world problem-solving.
 
 ## 🚀 Tech Stack
 
